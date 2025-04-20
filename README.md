@@ -1,7 +1,7 @@
-# Hyper Cmd Lib Net
+# Space Cmd Lib Net
 
 Pipe network connections, optionally using compression.
 
 ## Install
 
-`npm i hyper-cmd-lib-net`
+`npm i space-cmd-lib-net`
